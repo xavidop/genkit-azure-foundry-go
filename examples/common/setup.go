@@ -56,7 +56,7 @@ func SetupGenkit(ctx context.Context, config *Config) (*genkit.Genkit, *azureaif
 		var err error
 		config, err = LoadConfig()
 		if err != nil {
-			return nil, nil, fmt.Errorf("failed to load config: %w", err)
+			return nil, nil, err
 		}
 	}
 
