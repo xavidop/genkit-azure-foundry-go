@@ -1,0 +1,57 @@
+# .gitignore for Go project
+
+# Binaries for programs and plugins
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+
+# Test binary, built with `go test -c`
+*.test
+
+# Output of the go coverage tool
+*.out
+
+# Go workspace file
+go.work
+go.work.sum
+
+# Dependency directories
+vendor/
+
+# IDE specific files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS specific files
+.DS_Store
+Thumbs.db
+
+# Environment variables
+.env
+.env.local
+
+# Build outputs
+bin/
+build/
+dist/
+
+# Logs
+*.log
+
+# Temporary files
+tmp/
+temp/
+
+examples/basic/basic
+examples/advanced/advanced
+examples/chat/chat
+examples/tool_calling/tool_calling
+examples/embeddings/embeddings
+examples/streaming/streaming
+.genkit/
+node_modules/
