@@ -1,6 +1,6 @@
 # Azure AI Foundry Plugin for Genkit Go
 
-A comprehensive Azure AI Foundry plugin for Firebase Genkit Go that provides text generation and chat capabilities using Azure OpenAI and other models available through Azure AI Foundry.
+A comprehensive Azure AI Foundry plugin for Genkit Go that provides text generation and chat capabilities using Azure OpenAI and other models available through Azure AI Foundry.
 
 <!-- TOC -->
 
@@ -564,7 +564,7 @@ Apache 2.0 - see [LICENSE](LICENSE) file for details.
 
 ## Acknowledgments
 
-- Firebase Genkit team for the excellent Go framework
+- Genkit team for the excellent Go framework
 - Azure AI team for the comprehensive AI platform
 - The open source community for inspiration and feedback
 

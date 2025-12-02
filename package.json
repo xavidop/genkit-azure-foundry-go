@@ -1,7 +1,7 @@
 {
   "name": "genkit-azure-foundry-go",
   "version": "0.0.0-development",
-  "description": "Azure Foundry Plugin for Firebase Genkit Go",
+  "description": "Azure Foundry Plugin for Genkit Go",
   "repository": {
     "type": "git",
     "url": "https://github.com/xavidop/genkit-azure-foundry-go.git"
@@ -14,8 +14,7 @@
     "foundry",
     "golang",
     "ai",
-    "llm",
-    "firebase"
+    "llm"
   ],
   "private": true,
   "devDependencies": {

@@ -134,7 +134,7 @@ release:
   header: |
     ## Azure Foundry Plugin for Genkit Go {{.Version}}
     
-    This release includes improvements to the Azure Foundry integration for Firebase Genkit Go.
+    This release includes improvements to the Azure Foundry integration for Genkit Go.
     
     **🤖 This release was automatically generated using semantic-release**
     
