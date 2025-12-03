@@ -5,6 +5,12 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [1.1.0](https://github.com/xavidop/genkit-azure-foundry-go/compare/v1.0.3...v1.1.0) (2025-12-03)
+
+### 🚀 Features
+
+* added tts, stt y image generation ([02ad7cf](https://github.com/xavidop/genkit-azure-foundry-go/commit/02ad7cf07527a1d5eb4359cea3550957387b53d7))
+
 ## [1.0.3](https://github.com/xavidop/genkit-azure-foundry-go/compare/v1.0.2...v1.0.3) (2025-12-03)
 
 ### 🐛 Bug Fixes
